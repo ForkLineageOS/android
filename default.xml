@@ -7,6 +7,9 @@
   <remote  name="omni"
            fetch="https://github.com/omnirom" />
 
+  <remote name="fdroid"
+           fetch="https://gitlab.com/fdroid/" />
+
   <remote  name="github"
            fetch=".."
            review="review.lineageos.org" />
