@@ -45,6 +45,9 @@
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="hyper" />
 
+  <!-- AICP -->
+  <project path="packages/apps/OmniJaws" name="packages_services_OmniJaws" remote="aicp" revision="q10.0" />
+
   <!-- FLOSS -->
   <project path="packages/apps/F-DroidPrivilegedExtension" name="privileged-extension.git" remote="fdroid" revision="refs/tags/0.2.11" />
 
