@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <!-- Pixel experience pack-->
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pxlexp" revision="ten-plus" />
 
   <!-- LineageOS additions -->
   <project path="android" name="LineageOS/android" />
