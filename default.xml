@@ -10,6 +10,9 @@
   <remote  name="aicp"
            fetch="https://github.com/aicp" />
 
+  <remote  name="pxlexp"
+           fetch="https://github.com/PixelExperience" />
+
   <remote name="fdroid"
            fetch="https://gitlab.com/fdroid/" />
 
