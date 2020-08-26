@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <!-- FaceUnlock-->
+  <project path="external/motorola/faceunlock" name="external_utils" remote="bb" revision="Q" />
+
+  <!-- AOSPA ThankYouMario-->
+  <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common" remote="ThankYM" revision="quartz" />
+
   <!-- Pixel experience pack-->
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="pxlexp" revision="ten-plus" />
 

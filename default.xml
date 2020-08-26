@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="bb"
+           fetch="https://gitlab.com/rr-os" />
+
+  <remote  name="ThankYM"
+           fetch="https://github.com/ThankYouMario" />
+
   <remote  name="hyper"
            fetch="https://github.com/ForkLineageOS" />
 
